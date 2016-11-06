@@ -1,2 +1,2 @@
 # SIFStatic
-SIFStatic
+SIF Static Files
